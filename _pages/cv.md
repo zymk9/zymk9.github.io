@@ -11,22 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Data Science and Computer Science, The Hong Kong University of Science and Technology (HKUST), 2023 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022 - Present: Undergraduate Research at HKUST
+  * Region Proposal Networks (RPN) over Neural Radiance Fields (NeRF) representation.
+  * Supervisors: *[Prof. Chi-Keung Tang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-keung-tang-cktang)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2021 - Present: Undergraduate Research at HKUST
+  * Perception-Guided Frame Allocation and Reprojection for VR Rendering Acceleration.
+  * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
+
+
+Technical projects
+======
+* [Metarenderer](https://zymk9.github.io/Metarenderer/)
+  * An educational tool for introductory graphics courses based on [three.js](https://threejs.org/) and WebGL, featuring interactive visualization of camera models, basic shading models, lighting, culling, textures, and shadow mapping.
+  * Advanced features include **PCSS, microfacet models, and PRT with interreflection and glossy BRDF.**
+  * Used in the teaching of COMP 5411 Advanced Computer Graphics, at HKUST.
+  * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
+
+
 Skills
 ======
 * Skill 1
@@ -36,17 +42,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
