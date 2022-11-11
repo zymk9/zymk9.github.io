@@ -11,16 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Data Science and Computer Science, The Hong Kong University of Science and Technology (HKUST), 2023 (expected)
+* B.Sc. in Data Science and Computer Science (Double Major), The Hong Kong University of Science and Technology (HKUST), 2023 (expected)
 
 Research experience
 ======
-* Summer 2022 - Present: Undergraduate Research at HKUST
-  * Region Proposal Networks (RPN) over Neural Radiance Fields (NeRF) representation.
+* Sept 2022 - Present: Undergraduate Research at HKUST
+  * **Spatial-Temporal Reprojection Scheduling Using Peceptual Error Estimation for VR Rendering.**
+  * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
+
+* May 2022 - Nov 2022: Undergraduate Research at HKUST
+  * **Object Detection on Neural Radiance Fields.** ***(under review)***
   * Supervisors: *[Prof. Chi-Keung Tang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-keung-tang-cktang)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
 
-* Summer 2021 - Present: Undergraduate Research at HKUST
-  * Perception-Guided Frame Allocation and Reprojection for VR Rendering Acceleration.
+* Sept 2021 - Sept 2022: Undergraduate Research at HKUST
+  * **Perception-Guided Stereoscopic Rendering Using Binocular Fusion.**
   * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
 
 
