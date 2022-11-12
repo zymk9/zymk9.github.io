@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Benran Hu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Delved into graphics & rendering."
   location         : "HK"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "bhuai@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

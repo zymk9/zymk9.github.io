@@ -36,23 +36,30 @@ Technical projects
   * Used in the teaching of COMP 5411 Advanced Computer Graphics, at HKUST.
   * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
 
+* [Trace](https://github.com/COMP4411-Team/Trace)
+  * A soft renderer supporting path tracing, GGX microfacet BRDF, and photon mapping.
+  * Course project of an introductory graphics course.
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graphics APIs and Libraries: OpenGL, WebGL, WebXR, three.js
+* Renderer Development
+  * Real-time: PBR, IBL, PRT, SSRT, VSM
+  * Soft renderer: Path tracing, photon mapping, microfacet BRDF
+* ML Frameworks: Pytorch, Tensorflow
+* Programming Languages: C/C++, Python, Java, Javascript
 
   
-Teaching
+Departmental service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Student helper of *COMP2012H - Honors Object-Oriented Programming and Data Structures*
+  * Devised a programming assignment of implementing a simplified but fully functional Git-like VCS, which comes with an automated tester, unit tests, and black box tests.
+  * Designed lab exercises.
   
-Service and leadership
+Honors & awards
 ======
-* Currently signed in to 43 different slack teams
+* Tse Cheuk Ng Tai Scholarship - 2022
+* Lee Hysan Foundation Exchange Scholarship - 2021
+* Chiaphua Industries Limited Scholarship for Chinese Mainland Undergraduate Students - 2021
+* The Joseph Lau Luen Hung Charitable Trust Scholarship - 2020
+* Dean's List - 2019, 2020, 2021
