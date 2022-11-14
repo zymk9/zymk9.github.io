@@ -20,7 +20,7 @@ Research experience
   * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
 
 * May 2022 - Nov 2022: Undergraduate Research at HKUST
-  * **Object Detection on Neural Radiance Fields.** ***(under review)***
+  * **Object Detection in Neural Radiance Fields.** ***(under review)***
   * Supervisors: *[Prof. Chi-Keung Tang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-keung-tang-cktang)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
 
 * Sept 2021 - Sept 2022: Undergraduate Research at HKUST
@@ -39,6 +39,13 @@ Technical projects
 * [Trace](https://github.com/COMP4411-Team/Trace)
   * A soft renderer supporting path tracing, GGX microfacet BRDF, and photon mapping.
   * Course project of an introductory graphics course.
+
+* [PLM-KGE](https://github.com/zymk9/PLM-KGE)
+  * Explored the extrapolation behaviours, inference patterns, and embedding distributions of pretrained language model-based knowledge graph embedding.
+
+* [Yet-Another-Anime-Segmenter](https://github.com/zymk9/Yet-Another-Anime-Segmenter)
+  * Developed a deep learning-based instance segmentation model for anime characters based on CondInst and SOLOv2, achieving best performance among open-source solutions at the time released.
+
 
 Skills
 ======
