@@ -46,6 +46,13 @@ Technical projects
   * A soft renderer supporting path tracing, GGX microfacet BRDF, and photon mapping.
   * Course project of an introductory graphics course.
 
+* [PLM-KGE](https://github.com/zymk9/PLM-KGE)
+  * Explored the extrapolation behaviours, inference patterns, and embedding distributions of pretrained language model-based knowledge graph embedding.
+
+* [Yet-Another-Anime-Segmenter](https://github.com/zymk9/Yet-Another-Anime-Segmenter)
+  * Developed a deep learning-based instance segmentation model for anime characters based on CondInst and SOLOv2, achieving best performance among open-source solutions at the time released.
+
+
 Skills
 ======
 * Graphics APIs and Libraries: OpenGL, WebGL, WebXR, three.js
