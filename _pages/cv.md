@@ -16,7 +16,7 @@ Education
 
 Papers under review
 ======
-* Benran Hu*, Junkai Huang*, Yichen Liu*, Yu-Wing Tai, and Chi-Keung Tang. NeRF-RPN: A general framework for object detection in NeRFs. *arXiv preprint arXiv:2211.11646*, 2022. *[arXiv](https://arxiv.org/abs/2211.11646)*
+* **Benran Hu**\*, Junkai Huang\*, Yichen Liu\*, Yu-Wing Tai, and Chi-Keung Tang. NeRF-RPN: A general framework for object detection in NeRFs. *arXiv preprint arXiv:2211.11646*, 2022. *[arXiv](https://arxiv.org/abs/2211.11646)*
 
 
 Research experience
