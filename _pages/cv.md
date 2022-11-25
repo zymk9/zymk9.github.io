@@ -13,6 +13,12 @@ Education
 ======
 * B.Sc. in Data Science and Computer Science (Double Major), The Hong Kong University of Science and Technology (HKUST), 2023 (expected)
 
+
+Papers under review
+======
+* Benran Hu*, Junkai Huang*, Yichen Liu*, Yu-Wing Tai, and Chi-Keung Tang. NeRF-RPN: A general framework for object detection in NeRFs. *arXiv preprint arXiv:2211.11646*, 2022. *[arXiv](https://arxiv.org/abs/2211.11646)*
+
+
 Research experience
 ======
 * Sept 2022 - Present: Undergraduate Research at HKUST
@@ -20,8 +26,8 @@ Research experience
   * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
 
 * May 2022 - Nov 2022: Undergraduate Research at HKUST
-  * **Object Detection on Neural Radiance Fields.** ***(under review)***
-  * Supervisors: *[Prof. Chi-Keung Tang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=chi-keung-tang-cktang)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
+  * **Object Detection in Neural Radiance Fields.** ***(under review)*** *[arXiv](https://arxiv.org/abs/2211.11646)*
+  * Supervisors: *[Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
 
 * Sept 2021 - Sept 2022: Undergraduate Research at HKUST
   * **Perception-Guided Stereoscopic Rendering Using Binocular Fusion.**
