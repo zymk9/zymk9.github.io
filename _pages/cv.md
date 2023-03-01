@@ -14,9 +14,9 @@ Education
 * B.Sc. in Data Science and Computer Science (Double Major), The Hong Kong University of Science and Technology (HKUST), 2023 (expected)
 
 
-Papers under review
+Publications
 ======
-* **Benran Hu**\*, Junkai Huang\*, Yichen Liu\*, Yu-Wing Tai, and Chi-Keung Tang. NeRF-RPN: A general framework for object detection in NeRFs. *arXiv preprint arXiv:2211.11646*, 2022. *[arXiv](https://arxiv.org/abs/2211.11646)*
+* **Benran Hu**\*, Junkai Huang\*, Yichen Liu\*, Yu-Wing Tai, and Chi-Keung Tang. NeRF-RPN: A general framework for object detection in NeRFs. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023. *[arXiv](https://arxiv.org/abs/2211.11646)*
 
 
 Research experience
@@ -26,7 +26,7 @@ Research experience
   * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
 
 * May 2022 - Nov 2022: Undergraduate Research at HKUST
-  * **Object Detection in Neural Radiance Fields.** ***(under review)*** *[arXiv](https://arxiv.org/abs/2211.11646)*
+  * **Object Detection in Neural Radiance Fields.** ***[CVPR 2023]*** *[arXiv](https://arxiv.org/abs/2211.11646)*
   * Supervisors: *[Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
 
 * Sept 2021 - Sept 2022: Undergraduate Research at HKUST
