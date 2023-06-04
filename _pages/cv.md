@@ -11,18 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Data Science and Computer Science (Double Major), The Hong Kong University of Science and Technology (HKUST), 2023 (expected)
+* B.Sc. in Data Science and Computer Science (Double Major), The Hong Kong University of Science and Technology (HKUST), 2023
 
 
 Publications
 ======
+* **Benran Hu**\*, Junkai Huang\*, Yichen Liu\*, Yu-Wing Tai, and Chi-Keung Tang. Instance Neural Radiance Field. *arXiv preprint arXiv:2304.04395*, 2023. *[arXiv](https://arxiv.org/abs/2304.04395)*
+
 * **Benran Hu**\*, Junkai Huang\*, Yichen Liu\*, Yu-Wing Tai, and Chi-Keung Tang. NeRF-RPN: A general framework for object detection in NeRFs. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023. *[arXiv](https://arxiv.org/abs/2211.11646)*
 
 
 Research experience
 ======
 * Sept 2022 - Present: Undergraduate Research at HKUST
-  * **Spatial-Temporal Reprojection Scheduling Using Peceptual Error Estimation for VR Rendering.**
+  * **Spatial-Temporal Reprojection Scheduling with Perceptual Error Prediction for VR Rendering.**
   * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
 
 * May 2022 - Nov 2022: Undergraduate Research at HKUST
@@ -73,6 +75,6 @@ Honors & awards
 ======
 * Tse Cheuk Ng Tai Scholarship - 2022
 * Lee Hysan Foundation Exchange Scholarship - 2021
-* Chiaphua Industries Limited Scholarship for Chinese Mainland Undergraduate Students - 2021
+* Chiaphua Industries Limited Scholarship for Chinese Mainland Undergraduate Students - 2021, 2022
 * The Joseph Lau Luen Hung Charitable Trust Scholarship - 2020
-* Dean's List - 2019, 2020, 2021
+* Dean's List - 2019, 2020, 2021, 2022
