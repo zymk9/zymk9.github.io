@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Benran Hu"
 title_separator          : "-"
 name                     : &name "Benran"
-description              : &description "CS & DS UG Student at HKUST"
+description              : &description "Master's Student in CS at CMU"
 url                      : https://zymk9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zymk9/zymk9.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Benran Hu"
   avatar           : "profile.png"
-  bio              : "Delved into graphics & rendering."
-  location         : "HK"
+  bio              : "Delved into graphics & vision."
+  location         : "US"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "bhuai@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=0-o8mqQAAAAJ"
+  email            : "benranh@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

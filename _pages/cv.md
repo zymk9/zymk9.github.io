@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version of the CV](../files/CV.pdf)
+
 Education
 ======
-* B.Sc. in Data Science and Computer Science (Double Major), The Hong Kong University of Science and Technology (HKUST), 2023
+* M.S. in Computer Science. Carnegie Mellon University. *Expected Dec 2024*
+* B.S. in Data Science and Technology, and in Computer Science. The Hong Kong University of Science and Technology. *June 2023*
 
 
 Publications
