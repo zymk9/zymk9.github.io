@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version of the CV](../files/CV.pdf)
+[PDF version of the resume](../files/resume.pdf)
 
 Education
 ======
@@ -19,14 +19,24 @@ Education
 
 Publications
 ======
-* Yichen Liu\*, **Benran Hu**\*, Junkai Huang\*, Yu-Wing Tai, and Chi-Keung Tang. Instance Neural Radiance Field. *arXiv preprint arXiv:2304.04395*, 2023. *[arXiv](https://arxiv.org/abs/2304.04395)*
+* Yichen Liu, **Benran Hu**, Chi-Keung Tang, and Yu-Wing Tai. SANeRF-HQ: Segment Anything for NeRF in High Quality. *arXiv preprint arXiv:2312.01531*, 2023. *[arXiv](https://arxiv.org/abs/2312.01531)* *[project page](https://lyclyc52.github.io/SANeRF-HQ/)*
 
-* **Benran Hu**\*, Junkai Huang\*, Yichen Liu\*, Yu-Wing Tai, and Chi-Keung Tang. NeRF-RPN: A general framework for object detection in NeRFs. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023. *[arXiv](https://arxiv.org/abs/2211.11646)*
+* Yichen Liu\*, **Benran Hu**\*, Junkai Huang\*, Yu-Wing Tai, and Chi-Keung Tang. Instance Neural Radiance Field. In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2023. *[arXiv](https://arxiv.org/abs/2304.04395)*
+
+* **Benran Hu**\*, Junkai Huang\*, Yichen Liu\*, Yu-Wing Tai, and Chi-Keung Tang. NeRF-RPN: A general framework for object detection in NeRFs. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023. *[arXiv](https://arxiv.org/abs/2211.11646)*
 
 
 Research experience
 ======
-* Sept 2022 - Present: Undergraduate Research at HKUST
+* Apr 2023 - Nov 2023:
+  * **Segment Anything for NeRF.** *[arXiv](https://arxiv.org/abs/2312.01531)*
+  * Supervisors: *[Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
+
+* Dec 2022 - Jul 2023: Undergraduate Research at HKUST
+  * **Instance Segmentation in Neural Radiance Fields.** ***[ICCV 2023]*** *[arXiv](https://arxiv.org/abs/2304.04395)*
+  * Supervisors: *[Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
+
+* Sep 2022 - Present: Undergraduate Research at HKUST
   * **Spatial-Temporal Reprojection Scheduling with Perceptual Error Prediction for VR Rendering.**
   * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
 
@@ -34,7 +44,7 @@ Research experience
   * **Object Detection in Neural Radiance Fields.** ***[CVPR 2023]*** *[arXiv](https://arxiv.org/abs/2211.11646)*
   * Supervisors: *[Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/)* and *[Prof. Yu-Wing Tai](https://scholar.google.com/citations?user=nFhLmFkAAAAJ)*, Dept. CSE, HKUST.
 
-* Sept 2021 - Sept 2022: Undergraduate Research at HKUST
+* Sep 2021 - Sep 2022: Undergraduate Research at HKUST
   * **Perception-Guided Stereoscopic Rendering Using Binocular Fusion.**
   * Supervisor: *[Prof. Pedro Sander](https://cse.hkust.edu.hk/~psander/)*, Dept. CSE, HKUST.
 
@@ -61,11 +71,13 @@ Technical projects
 Skills
 ======
 * Graphics APIs and Libraries: OpenGL, WebGL, WebXR, three.js
-* Renderer Development
+* Graphics Rendering
+  * Unity render pipeline development
   * Real-time: PBR, IBL, PRT, SSRT, VSM
-  * Soft renderer: Path tracing, photon mapping, microfacet BRDF
+  * Offline renderer: Path tracing, photon mapping, microfacet BRDF
 * ML Frameworks: Pytorch, Tensorflow
 * Programming Languages: C/C++, Python, Java, Javascript
+* Parallel Computing: CUDA, SIMD, OpenMP, MPI
 
   
 Departmental service
@@ -74,8 +86,10 @@ Departmental service
   * Devised a programming assignment of implementing a simplified but fully functional Git-like VCS, which comes with an automated tester, unit tests, and black box tests.
   * Designed lab exercises.
   
+
 Honors & awards
 ======
+* Academic Achievement Medal - 2023
 * Tse Cheuk Ng Tai Scholarship - 2022
 * Lee Hysan Foundation Exchange Scholarship - 2021
 * Chiaphua Industries Limited Scholarship for Chinese Mainland Undergraduate Students - 2021, 2022
