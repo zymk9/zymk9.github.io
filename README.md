@@ -1,1 +1,1 @@
-Under construction.
+This is the source code to Benran Hu's public academic website: https://zymk9.github.io/. The code is cloned from [Jon Barron](https://jonbarron.info/)'s [repo](https://github.com/jonbarron/website).
